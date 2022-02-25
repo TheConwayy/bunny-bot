@@ -1,0 +1,7 @@
+# Git will ignore the following files
+
+# Ignore 'node_modules'
+node_modules
+
+# Ignore 'wakatime-project'
+.wakatime-project
