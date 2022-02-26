@@ -6,5 +6,5 @@ node_modules
 # Ignore 'wakatime-project'
 .wakatime-project
 
-# Ignore the config so that I can test with ease, an empty one will be added to the repo
-config
+# Ignore the token so that I can test with ease, and no-one needs that lol
+config/token.yml

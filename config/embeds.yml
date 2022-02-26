@@ -1,0 +1,8 @@
+colors: 
+  error: 0xff0800
+
+welcome:
+  description: '{member.user} {member.username}#{member.hashtag} {server}' # {member} = the member
+  footer: 'This is a footer'
+  image: 'server' # "avatar": will set the thumbnail to the avatar of the user tha joined; "server": will set the thumbail to the icon of the server
+  imageURL: 'https://images-ext-1.discordapp.net/external/8exuCsZa3zOgmL8d0t_P1md4iaf4K9YHqREGnnUuzNo/https/static.wikia.nocookie.net/laifubot/images/0/01/Discord-logo-png-7622.png?width=670&height=670' # If your server does not have an icon, you can set a replacement here (THIS IS REQUIRED IF YOU DO NOT HAVE AN ICON)

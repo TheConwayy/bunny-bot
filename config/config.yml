@@ -1,0 +1,21 @@
+#######################################
+#                                     #
+#             MAIN CONFIG             #
+#                                     #
+#######################################
+
+#######################################
+#                                     #
+#            SERVER CONFIG            #
+#                                     #
+#######################################
+
+
+server:
+  id: '763217323556995082'
+  owner: '384010503824867328'
+
+welcome:
+  embed: true # true = embed will be sent instead of a message; false = the message below will send
+  message: ''
+  channel: '763217323556995083'
