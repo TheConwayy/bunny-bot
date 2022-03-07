@@ -1,0 +1,18 @@
+COMMANDS:
+
+TODO: Create moderation commands
+    - KICK
+    - BAN
+    - WARN
+    - MUTE (make it so that if the user is already muted it will unmute)
+    - TEMPMUTE
+    - TEMPBAN
+    - TIMEOUT
+
+TODO: Create misc. commands.
+    - USER-INFO
+    - SERVER-INFO
+
+SEPERATE TODOS:
+    TODO: Come up with other commands
+    TODO: Fun commands??
