@@ -19,8 +19,3 @@ welcome:
   embed: false # true = embed will be sent instead of a message; false = the message below will send
   message: 'This is a welcome message'
   channel: '763218574336458753'
-
-left:
-  embed: false
-  message: 'This is a leaving message'
-  channel: '763218574336458753'
